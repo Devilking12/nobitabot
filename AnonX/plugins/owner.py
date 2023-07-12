@@ -1,4 +1,4 @@
-from pyrogram import Client, filters
+hifrom pyrogram import Client, filters
 import requests
 import random
 import os
@@ -23,25 +23,25 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝗢𝗪𝗡𝗘𝗥 🌹", url=f"https://t.me/GOVIND_OFFICIAL_MP42")
+                        "🌹 𝗢𝗪𝗡𝗘𝗥 🌹", url=f"https://t.me/Mr_selfish_person")
                 ]
             ]
         ),
     )
 
 @app.on_message(
-    filters.command("sherni")
+    filters.command("my love")
     & filters.private
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/ee479580df4caa50cac50.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝗦𝗛𝗘𝗥𝗡𝗜🍁""",
+        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️my love🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝗦𝗛𝗘𝗥𝗡𝗜 🌹", url=f"https://t.me/MISS_STRANGE_OFFICIAL")
+                        "🌹 my love 🌹", url=f"https://t.me/moonlight739")
                 ]
             ]
         ),
@@ -111,7 +111,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/GOVIND-BOTS/haramibot")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://te.legra.ph/file/f354a4685bc1f7573f02f.png")
                 ]
             ]
         ),
@@ -129,7 +129,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/GOVIND-BOTS/haramibot")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://te.legra.ph/file/f354a4685bc1f7573f02f.png")
                 ]
             ]
         ),
@@ -147,7 +147,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://te.legra.ph/file/4d781bd97587c449c5d6c.mp4")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://te.legra.ph/file/f354a4685bc1f7573f02f.png")
                 ]
             ]
         ),
