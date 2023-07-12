@@ -2,19 +2,19 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**GOVIND-BOTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nobita-BOTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/GOVIND-BOTS/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Nobita-BOTS/count.svg" />
 </p>
 
 
 
 
 <h2 align="center">
-    ──「 𝗜𝗖𝗖 𝗠𝗨𝗦𝗜𝗖 」──
+    ──「 Noob music 」──
 
 
 
@@ -22,10 +22,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/e6dbb1656b526b301398d.jpg">
+  <img src="https://graph.org/file/f27216b482b57e0c3f2f5.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗜𝗖𝗖🍷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/Govind_music_bot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥Nobita🍷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/Noobnobita_music_bot)**
 
 
 
@@ -41,7 +41,8 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/GOVIND-BOTS/haramibot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Devilking12/nobitabot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://telegram.me/Mr_selfish_person
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
@@ -51,13 +52,13 @@
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/GOVIND_OFFICIAL_MP42"><img src="https://img.shields.io/badge/-☆𝐃𝐌 GOVIND%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Mr_selfish_person"><img src="https://img.shields.io/badge/-☆𝐃𝐌 Nobita%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/GOVIND-BOTS/haramibot-MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Devilking12/nobitabot/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
